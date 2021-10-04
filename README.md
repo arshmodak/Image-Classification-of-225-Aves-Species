@@ -1,6 +1,19 @@
 # Image Classification of 225 Aves Species
 
-In this project, we utilize various ImageNet Pre-trained Neural Network models for classification of 225 Bird species. 
+More than 45 million people watch birds around their homes and away from home, according to the
+findings of the U.S. Fish & Wildlife service. Nowadays, bird species identification is seen as a
+mystifying problem which often leads to discombobulation and uncertainty. Many people visit bird
+sanctuaries to look at the birds, while they barely recognize the differences between various species of
+birds and their characteristics. Understanding such discrepancies between species can increase our
+knowledge of birds, their ecosystems and their biodiversity.
+
+Bird watching is the practice of observing birds in their natural environment. The objective of
+this project is to assist birdwatchers as well as ornithologists correctly identify different species of birds
+with ease. 
+
+To achieve this, we implement Supervised Machine Learning techniques such as deep
+learning and classification algorithms to develop a model to accurately identify 225 different bird
+species given an image of a bird. In this project, we utilize various ImageNet Pre-trained Neural Network models for classification of 225 Bird species. 
 Additionally, we also use Machine Learning models such as Logistic Regression and SVM to classify the images using the features extracted using various techniques.
 
 For feature extraction, we implemented the following techniques:
